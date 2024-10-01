@@ -18,8 +18,6 @@ En caso de no tenerlo siga los siguientes pasos:
 
 # Archivos
 Se encontraran dos archivos los cuales son:
-Carpeta ClasicToQuantum: Dentro de la misma podra encontrar el taller que vendra adjunto a las respectivas imagenes que tendra el taller 
+Carpeta ClasicToQuantum: Dentro de la misma podra encontrar el taller que viene con imagenes de referencias usadas en el archivo jupyter.
 
 README
-
-.gitignore
